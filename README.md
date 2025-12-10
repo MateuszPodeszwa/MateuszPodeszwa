@@ -36,10 +36,6 @@
   <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/archtype" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/highlights" width="100%" />
-</div>
-
 ###
 
 <h3 align="left">💫 It is all... About Me</h3>
@@ -128,6 +124,10 @@
 
 <div align="center">
   <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/contributions" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/highlights" width="100%" />
 </div>
 
 ###
