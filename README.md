@@ -24,13 +24,21 @@
 
 ###
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/stats)
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/archtype)
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/highlights)
+<h1 align="center">hello there 👋</h1>
 
 ###
 
-<h1 align="center">hello there 👋</h1>
+<div align="center">
+  <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/stats" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/archtype" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/highlights" width="100%" />
+</div>
 
 ###
 
@@ -38,11 +46,11 @@
 
 ###
 
-<p align="left">My primary focus is full-stack development. I enjoy architecting backends with C# and ASP.NET Core and creating reactive <br> interfaces using JavaScript (Svelte, Vue, Next.js). Beyond the web, I have a deep passion for the <br> intersection of hardware and software. I love designing custom software to control specific hardware configurations, <br> exploring how code translates into physical action. I’m a 'behind-the-scenes' learner <br> who thrives on understanding how things work, not just that they work.</p>
+<p align="left">My primary focus is full-stack development. I enjoy architecting backends with C# and ASP.NET Core and creating reactive interfaces using JavaScript (Svelte, Vue, Next.js). Beyond the web, I have a deep passion for the intersection of hardware and software. I love designing custom software to control specific hardware configurations, exploring how code translates into physical action. I’m a 'behind-the-scenes' learner <br> who thrives on understanding how things work, not just that they work.</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/mateuszpodeszwa/mateuszpodeszwa/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/mateuszpodeszwa/mateuszpodeszwa/output/snake.svg" width="100%" />
 
 ###
 
@@ -118,5 +126,8 @@
 
 ###
 
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/contributions)
+<div align="center">
+  <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/contributions" width="100%" />
+</div>
+
 ###
