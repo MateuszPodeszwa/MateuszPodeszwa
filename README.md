@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateuszpodeszwa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
-</div>
-
 ###
 
 <div align="center">
@@ -25,6 +21,12 @@
 <div align="center">
   <img src="https://count.getloli.com/@:mateuszpodeszwa?theme=gelbooru&padding=5&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
+
+###
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/stats)
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/archtype)
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/highlights)
 
 ###
 
@@ -114,4 +116,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
 </div>
 
+###
+
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/contributions)
 ###
