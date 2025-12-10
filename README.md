@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Mateusz, a Software Engineering student with a strong interest in programming, computer hardware, and building practical applications. I enjoy working with languages such as JS and C#, and I’ve recently been expanding into web development using C# Entity Framework Core, MVC and MVVM pattern of ASP.NET Core API , HTML, and CSS. I have some experience with JS frameworks like Svelte, Vue, Laravel, and Next. I’m a hands-on learner who likes creating real projects and exploring how different technologies work behind the scenes. I am very passionate and interested on the way how a custom made hardware can be customised and controlled by custom made software
+My primary focus is full-stack development. I enjoy architecting backends with C# and ASP.NET Core and creating reactive interfaces using JavaScript (Svelte, Vue, Next.js). Beyond the web, I have a deep passion for the intersection of hardware and software. I love designing custom software to control specific hardware configurations, exploring how code translates into physical action. I’m a 'behind-the-scenes' learner who thrives on understanding how things work, not just that they work.
 
 
 ## 🌐 Socials:
