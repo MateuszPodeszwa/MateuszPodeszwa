@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">My primary focus is full-stack development. I enjoy architecting backends with C# and ASP.NET Core and creating reactive <br> interfaces using JavaScript (Svelte, Vue, Next.js). Beyond the web, I have a deep passion for the intersection of hardware and software. I love designing custom software to control specific hardware configurations, exploring how code translates into physical action. I’m a 'behind-the-scenes' learner who thrives on understanding how things work, not just that they work.</p>
+<p align="left">My primary focus is full-stack development. I enjoy architecting backends with C# and ASP.NET Core and creating reactive <br> interfaces using JavaScript (Svelte, Vue, Next.js). Beyond the web, I have a deep passion for the <br> intersection of hardware and software. I love designing custom software to control specific hardware configurations, <br> exploring how code translates into physical action. I’m a 'behind-the-scenes' learner <br> who thrives on understanding how things work, not just that they work.</p>
 
 ###
 
