@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=239120&center=true&vCenter=true&width=700&lines=My+primary+focus+is+Full-Stack+Development;Architecting+backends+with+C%23+and+ASP.NET+Core;Creating+reactive+interfaces+(Svelte,+Vue,+Next.js);Passionate+about+the+intersection+of+hardware+and+software;I+thrive+on+understanding+HOW+things+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=239120&center=true&vCenter=true&width=800&lines=My+primary+focus+is+Full-Stack+Development;Architecting+backends+with+C%23+and+ASP.NET+Core;Creating+reactive+interfaces+(Svelte,+Vue,+Next.js);Passionate+about+the+intersection+of+hardware+and+software;I+thrive+on+understanding+HOW+things+work" alt="Typing SVG" />
 </div>
 
 ###
