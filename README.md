@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateuszpodeszwa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mateuszpodeszwa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
 </div>
 
 ###
@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mateuszpodeszwa/mateuszpodeszwa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mateuszpodeszwa/mateuszpodeszwa/output/snake.svg" />
 
 ###
 
