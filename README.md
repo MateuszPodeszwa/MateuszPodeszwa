@@ -62,14 +62,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,laravel,bootstrap,svelte,vue,vite,wordpress,sass" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mssql,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" />
   </a>
 </div>
 
 <h3 align="center">🛠 Tools & Platforms</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,netlify,github,nodejs,git,npm" />
+    <img src="https://skillicons.dev/icons?i=azure,netlify,github,nodejs,git,npm,figma,xd,wordpress,windows,webstorm,vscode,visualstudio,ubuntu,rider,pr,obsidian,notion,idea" />
   </a>
 </div>
 
