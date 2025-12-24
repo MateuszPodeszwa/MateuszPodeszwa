@@ -1,8 +1,8 @@
 ###
-
+<!--
 <div align="center">
   <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/stats" width="100%" />
-</div>
+</div>-->
 
 ###
 
@@ -74,7 +74,7 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://greptile-stats.vercel.app/api/widget/MateuszPodeszwa/highlights" width="100%" />
-</div>
+</div>-->
